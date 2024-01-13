@@ -1,0 +1,15 @@
+1. Git is a popular versioI coItrol system.
+
+2. It is a system that records changes to a file or set of files over time, so that we caI recall specific versioIs later.
+
+3. GitHub is a code hosting platform for version control and collaboration.
+
+4. GitHub, GitLab, Bitbucket etc.
+
+5. Local Version Control System, Centralized Version Control System and Distributed Version Control System.
+
+6. Collaboration, Flexibility, Commit, Security, Local branching etc.
+
+7. It is database that stores and manage a project's history and revisions.
+
+8. By using the command, "git init".
